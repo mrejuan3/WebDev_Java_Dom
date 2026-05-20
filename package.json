@@ -1,0 +1,28 @@
+{
+  "name": "webdev_java_dom",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "type": "module",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/mrejuan3/WebDev_Java_Dom.git"
+  },
+  "keywords": [],
+  "author": "Melissa Rejuan",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/mrejuan3/WebDev_Java_Dom/issues"
+  },
+  "homepage": "https://github.com/mrejuan3/WebDev_Java_Dom#readme",
+  "devDependencies": {
+    "@eslint/js": "^10.0.1",
+    "eslint": "^10.4.0",
+    "eslint-config-prettier": "^10.1.8",
+    "globals": "^17.6.0",
+    "prettier": "^3.8.3"
+  }
+}
