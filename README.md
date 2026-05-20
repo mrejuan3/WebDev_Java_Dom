@@ -47,6 +47,12 @@ When the page first loads, a dialog prompts the user for their name. If provided
 
 Or view the live version on GitHub Pages: [https://mrejuan3.github.io/WebDev_Java_Dom/](https://mrejuan3.github.io/WebDev_Java_Dom/)
 
+## AI Assistance
+
+This README was generated with the help of an AI assistant (Claude) using the following prompt:
+
+> I want to thank a full stack engineer with a lot of experience in JavaScript to help create a README file for this project, which is just a simple example on how to load Airbnb listings using JavaScript. You can follow this guide that was provided by my professor.
+
 ## Author
 
 **Melissa Rejuan** — [GitHub Profile](https://github.com/mrejuan3)
