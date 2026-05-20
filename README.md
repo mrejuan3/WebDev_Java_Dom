@@ -10,6 +10,25 @@ A simple web app that dynamically loads and displays Airbnb listings from a JSON
 
 Demonstrate how to use JavaScript (async/await, fetch, DOM manipulation) to load and render data from a local JSON file without a backend. Built as a learning example for loading real-world data dynamically into a web page.
 
+## Project Structure
+
+```
+WebDev_Java_Dom/
+├── index.html                      # Main HTML page
+├── css/
+│   └── main.css                    # Custom styles
+├── js/
+│   └── main.js                     # Fetch, DOM rendering, event listeners
+├── airbnb_sf_listings_500.json     # Dataset of 500 SF Airbnb listings
+├── screenshot.png                  # App screenshot
+├── package.json                    # Project metadata and dev dependencies
+└── README.md
+```
+
+## Creative Add-on — Personalized Welcome Message
+
+When the page first loads, a dialog prompts the user for their name. If provided, a personalized greeting (e.g. "Welcome, Melissa!") is displayed in the header using `document.querySelector` and `textContent`. This adds a personal touch to the experience and demonstrates basic DOM manipulation and JavaScript interactivity.
+
 ## Tech Requirements
 
 - A modern web browser
