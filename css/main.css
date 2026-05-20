@@ -1,0 +1,10 @@
+.host-photo {
+  width: 36px;
+  height: 36px;
+  object-fit: cover;
+}
+
+.listing-thumb {
+  height: 180px;
+  object-fit: cover;
+}
